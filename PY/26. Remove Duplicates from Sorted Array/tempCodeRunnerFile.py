@@ -1,1 +1,0 @@
-return len(list(set(nums)))
